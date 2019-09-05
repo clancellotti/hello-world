@@ -1,3 +1,7 @@
+# Hello-World!!
+
+Hello, my name is Charles Lancellotti and I am trying to learn about coding, website development, etc... I would like to someday develop websites and work remotely. 
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
